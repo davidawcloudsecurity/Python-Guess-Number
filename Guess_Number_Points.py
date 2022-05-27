@@ -1,7 +1,7 @@
 import random
 # Guess The number
 keep_going = True
-tries = 0
+tries = 1
 
 def guess(user, machine_number):
     global tries
